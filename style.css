@@ -1,12 +1,12 @@
-   
-div {  
-    box-sizing: border-box; 
-    width: 100%; 
-    border: 100px solid black; 
-} 
-   
-form {                                         
-    margin: 0 auto; 
+
+div {
+    box-sizing: border-box;
+    width: 100%;
+    border: 100px solid black;
+}
+
+form {
+    margin: 0 auto;
     width: 600px;
     text-align: center;
     border: 1px Solid black;
@@ -26,4 +26,7 @@ input{
 }
 .alert{
     color: red;
+}
+.alert-success{
+    color: green;
 }
